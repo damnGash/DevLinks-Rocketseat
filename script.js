@@ -22,7 +22,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     desc.setAttribute("alt", "gato loucura")
   } else {
-    desc.setAttribute("alt", "gato sleepando")
+    desc.setAttribute("alt", "gato dormindo")
   }
 
   const icon = document.querySelector("#icon")
