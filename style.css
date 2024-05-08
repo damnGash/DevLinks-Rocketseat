@@ -44,8 +44,8 @@ body * {
 }
 
 #container {
-  width: 360px;
-
+  width: 100%;
+  max-width: 588px;
   /* SH: Margin */
   /*
   margin-top 56px;
